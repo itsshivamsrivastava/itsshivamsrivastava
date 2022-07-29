@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure, JavaScript**
 
-- 👨‍💻 All of my projects are available at **[https://shivamsrivastava.netlify.app/](https://shivamsrivastava.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[https://github.com/itsshivamsrivastava](https://github.com/itsshivamsrivastava)**
 
 - 📫 How to reach me **shivamsri142@outlook.com**
 
