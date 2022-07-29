@@ -36,7 +36,7 @@
 - [Guessing Game](https://github.com/itsshivamsrivastava/Guessing-Game)
 - [Tip Calculator](https://github.com/itsshivamsrivastava/Tip-Calculator)
 
-➡️ [more projects...](https://github.com/itsshivamsrivastava)
+➡️ [more projects...](https://github.com/itsshivamsrivastava?tab=repositories)
 
 ### Connect with me:
 
