@@ -5,7 +5,6 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3W1JdBJOD8ELdBMZ0Zmg0Q?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=shivamsrivastava.com&style=for-the-badge&url=https%3A%2F%2Fshivamsrivastava.netlify.com)](https://shivamsrivastava.netlify.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shivam_142?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshivam_142&screen_name=shivam_142)
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
