@@ -1,5 +1,3 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQH19TAP-z04Zg/profile-displaybackgroundimage-shrink_350_1400/0/1626784587796?e=1664409600&v=beta&t=veUsYFhvGocF75Paf1UH4GAZ0_9Z2dZ7Q0TCCtCILnI)
-
 <h1 align="center"> Hi 👋, I'm Shivam Srivastava </h1>
 <h3 align="center">Fresher | Aspiring Web Designing | Seeking Entry- level Programming Position</h3><br>
 
