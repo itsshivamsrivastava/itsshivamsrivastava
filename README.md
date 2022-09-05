@@ -9,7 +9,7 @@
 - 🔭 Check out my Porfolio website: [Shivam Srivastava][website]!
 - 🌱 I’m currently learning DSA and JavaScript.
 - 👯 I’m looking for an internship as well as Job.
-- 🥅 2022 Goals: Learn more about web designing and Cloud Computing
+- 🥅 2022 Goals: Learn more about web designing and exploring Cloud Computing
 - ⚡ Fun fact: I love to listening music and play computer games / batminton.
 - 😻 Check out the website template I created: [Estatery](https://estateryreality.netlify.app/)
 
