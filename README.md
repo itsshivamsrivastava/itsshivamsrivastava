@@ -4,7 +4,7 @@
 <h3 align="center">Fresher | Aspiring Web Designing | Seeking Entry- level Programming Position</h3><br>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3W1JdBJOD8ELdBMZ0Zmg0Q?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=shivamsrivastava.com&style=for-the-badge&url=https%3A%2F%2Fshivamsrivastava.netlify.com)](https://shivamsrivastava.netlify.com)
+[![Website](https://img.shields.io/website?label=shivamsrivastava.netlify.app&style=for-the-badge&url=https%3A%2F%2Fshivamsrivastava.netlify.com)](https://shivamsrivastava.netlify.com)
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
