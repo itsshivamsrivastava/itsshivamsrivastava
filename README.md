@@ -14,6 +14,7 @@
 - 🥅 2022 Goals: Learn more about web designing and exploring Cloud Computing
 - ⚡ Fun fact: I love to listening music and play computer games / batminton.
 - 😻 Check out the website template I created: [Estatery](https://estateryreality.netlify.app/)
+- 🏢 I have completed my [Data Analytics Virtual Internship](https://github.com/itsshivamsrivastava/KPMG-AU-Virtual-Internship) at KPMG Australia Pty Limited
 
 ### Languages and Tools:
 
