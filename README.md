@@ -35,6 +35,7 @@
 - [Blogging Website](https://github.com/itsshivamsrivastava/Coding-Lovers)
 - [Guessing Game](https://github.com/itsshivamsrivastava/Guessing-Game)
 - [Tip Calculator](https://github.com/itsshivamsrivastava/Tip-Calculator)
+- [SplitBill](https://github.com/itsshivamsrivastava/SplitBill)
 
 ➡️ [more projects...](https://github.com/itsshivamsrivastava?tab=repositories)
 
