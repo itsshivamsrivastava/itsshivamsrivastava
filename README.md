@@ -62,7 +62,7 @@
 
 <br>
 
-# GitHub Activity
+  <h1 align="left"> GitHub Activity </h1>
 
 | ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsshivamsrivastava&theme=radical) | ![Shivam GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsshivamsrivastava&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
