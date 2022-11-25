@@ -5,11 +5,15 @@
 <h1 align="center"> Hi 👋, I'm Shivam Srivastava </h1>
 <h3 align="center">Fresher | Aspiring Web Designer | Seeking Entry- level Programming Position</h3><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] 
-[![Instagram](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC3W1JdBJOD8ELdBMZ0Zmg0Q?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Shivam Srivastava](https://img.shields.io/website?&style=for-the-badge&url=https%3A%2F%2Fshivamsrivastava.netlify.com)](https://shivamsrivastava.netlify.com)
-
+<p align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] 
+  [![Instagram](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
+  [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)][twitter]
+  [![Shivam Srivastava](https://img.shields.io/website?label=shivamsrivastava&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fshivamsrivastava.netlify.com)][course]
+  
+</p>
+  
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🔭 Check out my Porfolio website: [Shivam Srivastava][website]!
