@@ -43,7 +43,9 @@
   [![MyPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=shivamsrivastava&theme=radical)](https://github.com/itsshivamsrivastava/shivamsrivastava) &emsp; &emsp; 
   [![SplitBill](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=SplitBill&theme=radical)](https://github.com/itsshivamsrivastava/SplitBill) &emsp; &emsp; 
 
-  <a target="_blank" herf="https://github.com/itsshivamsrivastava?tab=repositories"> <img align="center" alt="more projects..." width="200" src="https://user-images.githubusercontent.com/73056786/204044867-274b778f-a702-492a-a0b1-d46b1e1f107a.png" />
+  <a target="_blank" herf="https://github.com/itsshivamsrivastava?tab=repositories"> 
+    <img align="center" alt="more projects..." width="200" src="https://user-images.githubusercontent.com/73056786/204044867-274b778f-a702-492a-a0b1-d46b1e1f107a.png" />
+  </a>
     
  </div>
  
