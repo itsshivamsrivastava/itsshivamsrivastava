@@ -94,7 +94,7 @@
 <p align="center"> 
 © Copyright <strong>Shivam Srivastava</strong>. All Rights Reserved
 <br>
-Designed by <a target="_blank" href="https://www.linkedin.com/in/itsshivamsrivastava/">Shivam Srivastava</a> 
+Designed by <a target="_blank" href="https://shivamsrivastava.netlify.app/">Shivam Srivastava</a> 
 </p>
 
 [website]: https://shivamsrivastava.netlify.app
