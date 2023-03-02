@@ -6,7 +6,7 @@
 <h3 align="center">Fresher | Aspiring Web Designer | Seeking Entry- level Programming Position</h3><br>
 
 <p align="center">
-  
+   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin] 
   [![Instagram](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white&style=for-the-badge)][instagram]
   [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)][twitter]
