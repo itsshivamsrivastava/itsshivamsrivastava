@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Hi 👋, I'm Shivam Srivastava </h1>
-<h3 align="center">Fresher | Aspiring Web Designer | Seeking Entry- level Programming Position</h3><br>
+<h3 align="center">Experienced | Aspiring React.js Developer | Seeking Entry- level Programming Position</h3><br>
 
 <p align="center">
    
