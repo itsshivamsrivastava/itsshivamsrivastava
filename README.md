@@ -41,10 +41,11 @@
   <h1 align="left"> 📺 Latest Projects </h1>
 
   [![LearnWithUs](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=LearnWithUs&theme=radical)](https://github.com/itsshivamsrivastava/LearnWithUs) &emsp; &emsp;
-  [![Guessing Game](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=Guessing-Game&theme=radical)](https://github.com/itsshivamsrivastava/Guessing-Game) &emsp; &emsp; 
-  [![SnakeWithShivam](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=SnakeWithShivam&theme=radical)](https://github.com/itsshivamsrivastava/SnakeWithShivam) &emsp; &emsp; 
   [![Blogging Website](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=Coding-Lovers&theme=radical)](https://github.com/itsshivamsrivastava/Coding-Lovers) &emsp; &emsp; 
   
+  [![Guessing Game](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=Guessing-Game&theme=radical)](https://github.com/itsshivamsrivastava/Guessing-Game) &emsp; &emsp; 
+  [![SnakeWithShivam](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=SnakeWithShivam&theme=radical)](https://github.com/itsshivamsrivastava/SnakeWithShivam) &emsp; &emsp; 
+
   [![Tip Calculator](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=Tip-Calculator&theme=radical)](https://github.com/itsshivamsrivastava/Tip-Calculator) &emsp; &emsp; 
   [![SplitBill](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=SplitBill&theme=radical)](https://github.com/itsshivamsrivastava/SplitBill) &emsp; &emsp; 
 
