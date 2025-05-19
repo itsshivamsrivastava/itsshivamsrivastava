@@ -40,13 +40,11 @@
   <br>
   <h1 align="left"> 📺 Latest Projects </h1>
 
+  [![LearnWithUs](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=LearnWithUs&theme=radical)](https://github.com/itsshivamsrivastava/LearnWithUs) &emsp; &emsp;
   [![Guessing Game](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=Guessing-Game&theme=radical)](https://github.com/itsshivamsrivastava/Guessing-Game) &emsp; &emsp; 
   [![SnakeWithShivam](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=SnakeWithShivam&theme=radical)](https://github.com/itsshivamsrivastava/SnakeWithShivam) &emsp; &emsp; 
-
   [![Blogging Website](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=Coding-Lovers&theme=radical)](https://github.com/itsshivamsrivastava/Coding-Lovers) &emsp; &emsp; 
   [![Tip Calculator](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=Tip-Calculator&theme=radical)](https://github.com/itsshivamsrivastava/Tip-Calculator) &emsp; &emsp; 
-
-  [![MyPortfolio](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=shivamsrivastava&theme=radical)](https://github.com/itsshivamsrivastava/shivamsrivastava) &emsp; &emsp; 
   [![SplitBill](https://github-readme-stats.vercel.app/api/pin/?username=itsshivamsrivastava&repo=SplitBill&theme=radical)](https://github.com/itsshivamsrivastava/SplitBill) &emsp; &emsp; 
 
  [<img align="center" alt="more projects..." src="https://user-images.githubusercontent.com/73056786/204044867-274b778f-a702-492a-a0b1-d46b1e1f107a.png" width="200"/>](https://github.com/itsshivamsrivastava?tab=repositories)
